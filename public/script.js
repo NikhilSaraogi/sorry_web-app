@@ -200,12 +200,12 @@ init();
         if (src === 'message') {
             homeDiv.innerHTML = `
                 <div class="home_container">
-                    <h2>Hello, Krati :)</h2>
+                    <h2>Hello, Sneha :)</h2>
                     <p>
                         I'm not great with words, so I made this code... <br/>
                         I really <span class="green">apologize</span> for my behavior. <br/>
-                        I care about you, Krati, and that's why I made this. <br/>
-                        I need you as a <span class="green">bestie</span>, and I'm afraid of losing you forever. <br/>
+                        I care about you, Snehu, and that's why I made this. <br/>
+                        I need you as a <span class="green">life partner</span>, and I'm afraid of losing you forever. <br/>
                         You're so special and important to me. <br/>
                         Anyway, it was my fault. <br/>
                         I hope for your response. :)
